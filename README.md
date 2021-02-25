@@ -1,5 +1,5 @@
 This is a Yolov5-application on Kaggle completition.
 
-inBigData Chest X-ray Abnormalities Detection
+BigData Chest X-ray Abnormalities Detection
 https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection
 
